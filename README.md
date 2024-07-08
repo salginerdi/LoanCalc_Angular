@@ -2,6 +2,32 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
 
+---------
+# Kredi Hesaplama Uygulaması
+
+Bu Angular uygulaması, kullanıcıların kredi hesaplamaları yapmasına olanak tanır. Kullanıcılar kredi tutarını ve taksit sayısını girebilir, ardından uygulama taksit tutarını, toplam geri ödemeyi ve detaylı bir ödeme planını hesaplar.
+
+## Özellikler
+
+- Kredi tutarı girişi
+- Taksit sayısı seçimi (3, 6, 12, 24 ay)
+- Taksit tutarı, toplam geri ödeme ve aylık ödeme planı hesaplama
+- Responsive tasarım
+
+## Teknolojiler
+
+- Angular
+- TypeScript
+- HTML
+- CSS
+
+## Kullanım
+
+1. "Kredi Tutarı" alanına istediğiniz kredi miktarını girin.
+2. "Taksit Sayısı" dropdown menüsünden istediğiniz taksit sayısını seçin.
+3. "Hesapla" butonuna tıklayın.
+4. Sonuçları ve detaylı ödeme planını görüntüleyin.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
