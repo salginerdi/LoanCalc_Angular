@@ -28,6 +28,9 @@ Bu Angular uygulaması, kullanıcıların kredi hesaplamaları yapmasına olanak
 3. "Hesapla" butonuna tıklayın.
 4. Sonuçları ve detaylı ödeme planını görüntüleyin.
 
+## View
+![pic loan](https://github.com/salginerdi/LoanCalc_Angular/assets/110611268/fe71ad48-5bed-4752-9442-063643d47585)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
